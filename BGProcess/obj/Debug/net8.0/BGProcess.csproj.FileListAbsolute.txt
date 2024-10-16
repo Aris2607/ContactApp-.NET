@@ -1,0 +1,12 @@
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\bin\Debug\net8.0\BGProcess.deps.json
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\bin\Debug\net8.0\BGProcess.dll
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\bin\Debug\net8.0\BGProcess.pdb
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\obj\Debug\net8.0\BGProcess.csproj.AssemblyReference.cache
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\obj\Debug\net8.0\BGProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\obj\Debug\net8.0\BGProcess.AssemblyInfoInputs.cache
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\obj\Debug\net8.0\BGProcess.AssemblyInfo.cs
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\obj\Debug\net8.0\BGProcess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\obj\Debug\net8.0\BGProcess.dll
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\obj\Debug\net8.0\refint\BGProcess.dll
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\obj\Debug\net8.0\BGProcess.pdb
+C:\Users\Lenovo G400\source\repos\TestMVC\BGProcess\obj\Debug\net8.0\ref\BGProcess.dll
